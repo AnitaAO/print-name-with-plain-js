@@ -1,7 +1,7 @@
 var person = {
     name: 'Amarachi',
-    age: 15,
-    country: 'Programmer'
+    age: 35,
+    country: 'Nigeria'
   };
   
   const { name, age, country } = person; // Takes the property/method from the object
